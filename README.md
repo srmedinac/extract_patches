@@ -2,7 +2,7 @@
 Extracting patches from WSI and binary masks simultaneously using Histoprep, taking into account downsampling
 
 
-Thank you to the histoprep authors for an amazing library: 
+Thank you to the histoprep authors for an amazing library.
 
 Histoprep is available here: https://github.com/jopo666/HistoPrep
 
