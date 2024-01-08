@@ -8,6 +8,7 @@ Histoprep is available here: https://github.com/jopo666/HistoPrep
 
 If you use Histoprep for research, please cite it:
 
+```
 @misc{histoprep,
   author = {Pohjonen, Joona and Ariotta, Valeria},
   title = {HistoPrep: Preprocessing large medical images for machine learning made easy!},
@@ -16,3 +17,4 @@ If you use Histoprep for research, please cite it:
   journal = {GitHub repository},
   howpublished = {https://github.com/jopo666/HistoPrep},
 }
+```
